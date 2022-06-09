@@ -66,6 +66,8 @@ tail -n +10 ~/.bashrc | bash
 #@  
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   2022-06-09[Jun-Thu]08-54AM 
 
+ggl: dataset manufacturing defects
+
 https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
 
 2022-06-09_Thu_09.49-AM starat 10 epoch cast02
