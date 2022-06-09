@@ -17,7 +17,7 @@ ideas:
 https://www.vicos.si/resources/kolektorsdd/
 https://github.com/2Obe/BSData
 
-
+data idea:
 https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
 
 
@@ -75,3 +75,15 @@ echo .ipynb_checkpoints>>~/ml635e/.gitignore
 
 
 find . -name modelweights_*.* -print0 | xargs -0 git rm -f --ignore-unmatch
+
+
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#@  
+#@  
+#@  
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   2022-06-09[Jun-Thu]16-52PM 
+
+
+refer to:
+D:\bag\ml-635\ir.zip
+
